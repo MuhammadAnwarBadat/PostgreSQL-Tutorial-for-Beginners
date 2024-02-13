@@ -127,3 +127,4 @@ Remember, practice is key to mastering SQL, so don't hesitate to experiment with
 2. https://www.youtube.com/watch?v=SpfIwlAYaKk
 3. https://www.youtube.com/playlist?list=PLS-kiDL9KrIh-E5eadtnp-8l55H7e2LN0
 4. https://www.youtube.com/watch?v=4_Xz4appt-s
+5. https://www.javatpoint.com/types-of-relationship-in-database-table
