@@ -121,3 +121,9 @@ Remember, practice is key to mastering SQL, so don't hesitate to experiment with
 ### AS (Alias)
 **Explanation**: To list the total number of films as "TotalFilms", `SELECT COUNT(*) AS TotalFilms FROM film;`.
 **Challenge**: Show the average rental duration of films, labeling the result as "AverageRentalDuration".
+
+## 5. Resources:
+1. https://www.w3schools.com/sql/default.asp
+2. https://www.youtube.com/watch?v=SpfIwlAYaKk
+3. https://www.youtube.com/playlist?list=PLS-kiDL9KrIh-E5eadtnp-8l55H7e2LN0
+4. https://www.youtube.com/watch?v=4_Xz4appt-s
